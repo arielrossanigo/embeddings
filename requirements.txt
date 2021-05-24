@@ -1,0 +1,5 @@
+jupyter==1.0.0
+gensim
+pandas
+matplotlib
+pyarrow
