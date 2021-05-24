@@ -1,12 +1,12 @@
-# Clustering and the curse of dimensionality
+# Intro to embeddings
 
-A brief introduction to Clustering, Curse of dimensionality and dimensionality reduction technichs
+A brief introduction to embeddings
 
 ## In order to run this notebook...
 
 1. Clone this repository
 
-    git clone git@github.com:arielrossanigo/clustering_and_the_curse_of_dimensionality.git
+    git clone git@github.com:arielrossanigo/embeddings_bloom_feb_2021.git
 
 2. Install requirements
 
@@ -14,6 +14,6 @@ A brief introduction to Clustering, Curse of dimensionality and dimensionality r
 
 3. Open this notebook
 
-    jupyter notebook clustering_and_the_curse_of_dimensionality.ipynb
+    jupyter notebook embeddings.ipynb
 
 4. Enjoy!
